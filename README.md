@@ -1,16 +1,12 @@
-# greengrocer
+# Greengrocer
 
-A new Flutter project.
+Projeto desenvolvido na linguagem dart durante o andamento do curso.
 
-## Getting Started
+## Sobre: 
+Este projeto se trata de uma quitanda virtual, cujo o usuário realiza seu cadastro e faz suas compras de forma online, 
+O projeto conta um um belo design e rico em animações, contando com todas as funcionalidades esperadas de um app de compras online.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tecnologias
+- Dart
+- Flutter 
+- GetX
